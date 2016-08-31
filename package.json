@@ -1,6 +1,6 @@
 {
   "name": "wonderful-output",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "minimal json beautifier",
   "main": "index.js",
   "scripts": {

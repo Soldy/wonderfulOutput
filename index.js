@@ -29,7 +29,9 @@ exports.json = function () {
                 if (typeof json[ni] === 'string') {
                     out += '"'+json[ni].toString()+'"';    
                 } else if(typeof json[ni] === 'number'){
-                    out += json[ni].toString();                    
+                    out += json[ni].toString();       
+                } else if(typeof json[ni] === 'function'){
+                    out += "function(){}";                           
                 } else if(typeof json[ni] === 'boolean'){
                     if(json[ni] === true){
                         out += "true"; 
