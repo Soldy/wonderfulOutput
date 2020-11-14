@@ -1,25 +1,25 @@
 {
-  "name": "wonderful-output",
-  "version": "0.0.1",
-  "description": "minimal json beautifier",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Soldy/wonderfulOutput.git"
-  },
-  "keywords": [
-    "json",
-    "beautifier",
-    "json",
-    "json beautifier",
-    "json formater"
-  ],
-  "author": "soldy",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Soldy/wonderfulOutput/issues"
-  }
+    "name": "wonderful-output",
+    "version": "0.0.21",
+    "description": "minimal json beautifier",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Soldy/wonderfulOutput.git"
+    },
+    "keywords": [
+        "json",
+        "beautifier",
+        "json",
+        "json beautifier",
+        "json formater"
+    ],
+    "author": "soldy",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Soldy/wonderfulOutput/issues"
+    }
 }
